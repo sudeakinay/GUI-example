@@ -29,6 +29,18 @@ Kullanilan uygulamalar:
 
 
 
+Yaz stajı bitiminden sonra projeye devam eden diğer stajyere iş aktarımları sağlanmıştır. Proje başında belirlediğimiz isterlere göre yeni eklemeler Yavuz Kızıltaş tarafından tamamlanamıştır. Osiloskop Arayüz Tasarımı'nın son hali aşağıdaki görsellerdeki gibidir.
+
+<p align="center">
+  <img width="650" src="/images/final-version-1.jpg">
+</p>
+
+
+<p align="center">
+  <img width="650" src="/images/final-version-2.jpg">
+</p>
+
+
 
 
 
